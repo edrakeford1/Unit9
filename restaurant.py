@@ -14,5 +14,6 @@ class Restaurant:
     chick_fil_a = Restaurant("Chick fil a", "Fast")
 
     print(chick_fil_a.cuisine_type)
-    print(chicl_fil_a.restaurant_name)
-        
+    print(chick_fil_a.restaurant_name)
+    
+    
